@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estudiar variables de entorno",
+        "descripcion": "Leer documentaci\u00f3n sobre configuraci\u00f3n de entorno en sistemas operativos.",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560522,
+        "titulo": "Sistema solar",
+        "descripcion": "redactar que es el sistema solar\r\n",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560639,
+        "titulo": "Tus Vacaciones",
+        "descripcion": "hacer un video de ti hablando tus vacaciones en ingles",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560840,
+        "titulo": "problema del mundo",
+        "descripcion": "hacer un exposicion sobre algun tema que pase en el mundo",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560894,
+        "titulo": "tablas de multiplicar",
+        "descripcion": "hacer las tablas del 1 al 5",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560955,
+        "titulo": "2 metros de ti",
+        "descripcion": "leer y resumir el libro de 2 metros de ti",
+        "estado": "pendiente"
+    }
+]
